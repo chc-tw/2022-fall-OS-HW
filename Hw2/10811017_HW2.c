@@ -1,12 +1,3 @@
-/*
-Student No.:10811017
-Student Name:張皓丞
-Email: sam24341094.be08@nycu.edu.tw
-SE tag: xnxcxtxuxoxsx
-Statement: I am full aware that this program is not
-supposed to be posted to a public server, such as a 
-public GitHub repository or a public web page.
-*/
 #include <unistd.h>
 #include <sys/ipc.h>
 #include <sys/shm.h>
